@@ -30,14 +30,7 @@ I am a passionate **Software & Distributed Systems Engineer** focused on buildin
 
 ---
 
-## 📂 Featured Engineering Showcases
 
-*   **SmartServe 🍽️** – A production-ready, real-time QR-code menu and waiter notification engine for cafes. *Built using Next.js, Tailwind, Prisma, PostgreSQL, and Socket.io.*
-*   **Gesavo ⚖️** – A robust, full-scale management dashboard tailored for law firms, engineered with enterprise data tracking. *Built using Django.*
-*   **SmartCampus 🎓** – A secure architectural solution for educational environments featuring advanced user authorization and project repository management. *Built using Java.*
-*   **City Explorer Pro & Weather Platform 🌍** – High-speed data processing dashboards integrating real-time weather APIs and live data visualizations. *Built using Python & Streamlit.*
-
----
 
 ## 📊 Interactive Metrics Dashboard
 
