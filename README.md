@@ -2,7 +2,7 @@
 <h3 align="center">Software & Distributed Systems Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends+✨;Cloud+%26+Distributed+Systems+☁️;i'm+just+a+girl+coding+systems+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends;Cloud+%26+Distributed+Systems;i'm+just+a+girl+coding+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@ I am a passionate **Software & Distributed Systems Engineer** who loves building
 | **Low-Level ⌨️** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) `Intel 8086 Assembly` `Shell Scripting` |
 
 ---
+
 
 
 ## 📊 Beautiful Metrics Dashboard
