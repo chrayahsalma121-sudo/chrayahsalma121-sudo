@@ -9,7 +9,7 @@
 
 ---
 
-## 🌊 About Me
+## About Me
 
 An engineering student specialized in **Software & Distributed Systems Engineering**. I build reliable, production-ready backend architectures, concurrent application logic, and cloud-native systems ecosystems. I thrive at the intersection of low-level systems administration and modern distributed web deployments.
 
