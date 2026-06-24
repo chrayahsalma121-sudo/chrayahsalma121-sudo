@@ -2,10 +2,6 @@
 <h3 align="center">Software & Distributed Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Distributed+Systems;Cloud+Architecture;High-Performance+Backends" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Engineering%20Student-2E3440?style=for-the-badge&logoColor=D8DEE9" alt="Status">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Cloud-3B4252?style=for-the-badge&logoColor=88C0D0" alt="Focus">
   <a href="https://chrayahsalma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-434C5E?style=for-the-badge&logo=googlechrome&logoColor=81A1C1" alt="Portfolio"></a>
@@ -19,7 +15,7 @@ I am a passionate **Software & Distributed Systems Engineer** focused on buildin
 
 ---
 
-## Tech Stack & Ecosystem
+## 🛠️ Tech Stack & Ecosystem
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -32,25 +28,11 @@ I am a passionate **Software & Distributed Systems Engineer** focused on buildin
 ---
 
 
----
-
-## 📊 Interactive Metrics Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrayahsalma121-sudo&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Salma's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrayahsalma121-sudo&layout=compact&theme=nord" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrayahsalma121-sudo&theme=nord" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Let's Collaborate
 
 <p align="left">
-  <a href="https://chrayahsalma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=About.me&logoColor=D8DEE9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/salma-chrayah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3B4252?style=for-the-badge&logo=linkedin&logoColor=88C0D0" alt="LinkedIn" /></a>
-  <a href="mailto:chrayah.sc@gmail.com"><img src="https://img.shields.io/badge/Email-434C5E?style=for-the-badge&logo=gmail&logoColor=E5E9F0" alt="Email" /></a>
+  <a href="https://chrayahsalma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=About.me&logoColor=D8DEE9" alt="Portfolio" /></a>[cite: 1]
+  <a href="https://www.linkedin.com/in/salma-chrayah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3B4252?style=for-the-badge&logo=linkedin&logoColor=88C0D0" alt="LinkedIn" /></a>[cite: 1]
+  <a href="mailto:chrayah.sc@gmail.com"><img src="https://img.shields.io/badge/Email-434C5E?style=for-the-badge&logo=gmail&logoColor=E5E9F0" alt="Email" /></a>[cite: 1]
 </p>
